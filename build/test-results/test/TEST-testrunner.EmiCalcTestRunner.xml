@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testrunner.EmiCalcTestRunner" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-10-12T16:46:50" hostname="DESKTOP-B4ARN23" time="10.037">
+  <properties/>
+  <testcase name="doCalculation[0](50000, 10, 1, 2, 4395.79, 2749.53, 1000.0, 52749)" classname="testrunner.EmiCalcTestRunner" time="5.627"/>
+  <testcase name="doCalculation[1](100000, 10, 2, 2, 4614.49, 10747.82, 2000.0, 110747.82)" classname="testrunner.EmiCalcTestRunner" time="4.306"/>
+  <system-out><![CDATA[4395.79
+2749.53
+1000.0
+50000.0
+4614.49
+10747.82
+2000.0
+100000.0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
